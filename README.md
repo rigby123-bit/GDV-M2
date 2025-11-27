@@ -13,4 +13,5 @@ De main machenic van de game is dat de stenen 1 keer kunnen stuiteren, zo moet j
 
 
 # kort filmpje van de basis opdracht
-![Recording 2025-11-27 125526](https://github.com/user-attachments/assets/25dc6875-a828-4fb1-aee0-5fec611407cc)
+
+![adcy58](https://github.com/user-attachments/assets/4c87bb91-8783-49fd-acec-638381b77af8)
