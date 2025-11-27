@@ -79,3 +79,15 @@ public class BallShooter2D : MonoBehaviour
 }
 
 ```
+
+```Csharp
+using UnityEngine;
+
+public class hit : MonoBehaviour
+{
+    void OnCollisionEnter2D(Collision2D collision)
+    {
+        Debug.Log("Hit!");
+    }
+}
+```
